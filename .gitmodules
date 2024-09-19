@@ -1,0 +1,3 @@
+[submodule "ingredients/coar_notify"]
+	path = ingredients/coar_notify
+	url = https://github.com/eprintsug/coar_notify.git

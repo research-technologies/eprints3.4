@@ -11,5 +11,6 @@
 flavours/pub_lib
 ingredients/bazaar
 ingredients/prototypejs
+ingredients/coar_notify
 #ingredients/jquery
 #site_lib
